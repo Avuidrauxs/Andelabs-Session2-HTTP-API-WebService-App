@@ -1,0 +1,20 @@
+{
+  "name": "Andelabs-Session2-HTTP-API-WebService-App",
+  "version": "1.0.0",
+  "description": "A simple command line application that consumes a Public API using a HTTP client library.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avuidrauxs/Andelabs-Session2-HTTP-API-WebService-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avuidrauxs/Andelabs-Session2-HTTP-API-WebService-App/issues"
+  },
+  "homepage": "https://github.com/Avuidrauxs/Andelabs-Session2-HTTP-API-WebService-App#readme"
+}
